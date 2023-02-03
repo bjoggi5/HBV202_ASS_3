@@ -17,7 +17,7 @@ public class Greeter {
 		case GERMAN:
 			return "Hallo Welt!";
 		default:
-			return "UNKOWN LANGUAGE";
+			return "Halló Heimur";
 		}
 	}
 }
